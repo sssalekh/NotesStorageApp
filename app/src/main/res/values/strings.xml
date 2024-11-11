@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesStorageApp</string>
+    <string name="note_name_hint">Enter Note Name</string>
+    <string name="note_content_hint">Enter Note Content</string>
+    <string name="save_note">Save Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="empty_fields_warning">Both fields must be filled out</string>
+</resources>
